@@ -11,3 +11,6 @@ Tips/Extra Features:
 • Use an asterisk (*) at the end of a line to read it exactly as it is.
 • Change your overdrive keybind in the settings page.
 • After clicking 'Start/Restart' for the second time, reading begins when\n you press the overdrive keybind (default: SPACE).
+
+
+Join the discord server if you have any questions https://discord.gg/KBrNJt7W
