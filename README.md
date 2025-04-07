@@ -1,3 +1,5 @@
+Download the latest release in the released page on the right
+
 Steps to Use:
 1. Get the OD Path from the Festival Tracker bot or enter a custom path.
 2. Paste the Overdrive path into the text box.
