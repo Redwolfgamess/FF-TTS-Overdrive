@@ -52,7 +52,6 @@ If you have questions or need help, [join our Discord server](https://discord.gg
 ## 🧠 Planned Features
 
 - ✅ Native controller support.
-- ✅ Multi-language TTS playback.
 
 ---
 
