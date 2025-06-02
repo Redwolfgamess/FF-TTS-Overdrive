@@ -31,6 +31,7 @@ If you have questions or need help, [join our Discord server](https://discord.gg
 
 - 🔁 **Restart On-the-Fly:** Press the hotkey again to restart playback if you miss a cue.
 - ⌨️ **Customizable Keybinds:** Change Overdrive and restart keys in the settings menu.
+- ⌨️ **Customizable TTS Output + Multi-Language Support:** Choose how your TTS is worded and select your language.
 - 🎮 **Controller Support (Temporary):** Use tools like [JoyToKey](https://joytokey.net/en/) to map controller buttons to keyboard keys.
 - 🌐 **Automatic Path Fetching:**
   - **Primary:** From CHOpt data in the Festival Tracker Discord bot.
