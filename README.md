@@ -8,9 +8,14 @@ A powerful companion app for **Fortnite Festival** players that reads optimized 
 
 👉 **[Download the latest release here](https://github.com/Redwolfgamess/FF-TTS-Overdrive/releases)** (see the Releases section on the right).
 
-1. Download the `ODTool-Setup.exe` file.
+### To download as an app
+> Download the `ODTool-Setup.exe` file.
    > ⚠️ Do **not** download the `ODTool-Setup.blockmap.exe` — it's not the installer.
-2. Run the setup file to install the tool as a desktop app.
+> Run the setup file to install the tool as a desktop app.
+
+### To download locally packaged
+> Download and extract `ODTool.Local.zip`
+> Run ODTool.exe
 
 If you have questions or need help, [join our Discord server](https://discord.gg/CkcCmx2WST)!
 
