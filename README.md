@@ -14,8 +14,8 @@ A powerful companion app for **Fortnite Festival** players that reads optimized 
 > Run the setup file to install the tool as a desktop app.
 
 ### To download locally packaged
-> Download and extract `ODTool.Local.zip`
-> Run ODTool.exe
+> Download and extract `ODTool.Local.zip`.
+> Run ODTool.exe.
 
 If you have questions or need help, [join our Discord server](https://discord.gg/CkcCmx2WST)!
 
